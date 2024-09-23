@@ -1,0 +1,43 @@
+{
+   "name": "@dietime/telegraf-media-group",
+   "version": "0.1.0",
+   "description": "All that you want to easily process media groups in telegraf.js",
+   "author": "Denis Glazkov <glazzk.off@mail.ru>",
+   "license": "MIT",
+   "private": false,
+   "homepage": "https://github.com/DieTime/telegraf-media-group",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DieTime/telegraf-media-group.git"
+	},
+	"bugs": {
+		"url": "https://github.com/DieTime/telegraf-media-group/issues",
+      "email": "glazzk.off@mail.ru"
+	},
+   "main": "./dist/index.js",
+   "module": "./dist/index.mjs",
+   "types": "./dist/index.d.ts",
+   "files": [
+      "dist",
+      "LICENSE",
+      "README.md"
+   ],
+   "scripts": {
+      "build": "tsup"
+   },
+   "devDependencies": {
+      "@types/node": "^22.6.1",
+      "dotenv": "^16.4.5",
+      "eslint": "^8.57.0",
+      "eslint-config-prettier": "^9.1.0",
+      "eslint-plugin-prettier": "^5.2.1",
+      "prettier": "^3.3.3",
+      "telegraf": "^4.16.3",
+      "tsup": "^8.3.0",
+      "typescript": "^5.6.2",
+      "typescript-eslint": "^8.6.0"
+   },
+   "peerDependencies": {
+      "telegraf": "^4.16.3"
+   }
+}
