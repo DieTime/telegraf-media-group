@@ -14,14 +14,17 @@
 		"url": "https://github.com/DieTime/telegraf-media-group/issues",
       "email": "glazzk.off@mail.ru"
 	},
-   "main": "./dist/index.js",
-   "module": "./dist/index.mjs",
-   "types": "./dist/index.d.ts",
+   "publishConfig": {
+      "access": "public"
+   },
    "files": [
       "dist",
       "LICENSE",
       "README.md"
    ],
+   "main": "./dist/index.js",
+   "module": "./dist/index.mjs",
+   "types": "./dist/index.d.ts",
    "scripts": {
       "build": "tsup"
    },
