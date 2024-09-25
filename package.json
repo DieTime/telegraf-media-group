@@ -1,6 +1,6 @@
 {
    "name": "@dietime/telegraf-media-group",
-   "version": "0.1.0",
+   "version": "1.0.0",
    "description": "All that you want to easily process media groups in telegraf.js",
    "author": "Denis Glazkov <glazzk.off@mail.ru>",
    "license": "MIT",
