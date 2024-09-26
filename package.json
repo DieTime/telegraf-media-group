@@ -22,6 +22,14 @@
       "LICENSE",
       "README.md"
    ],
+   "keywords": [
+      "telegraf",
+      "telegrafjs",
+      "media",
+      "group",
+      "mediagroup",
+      "middleware"
+   ],
    "main": "./dist/index.js",
    "module": "./dist/index.mjs",
    "types": "./dist/index.d.ts",
