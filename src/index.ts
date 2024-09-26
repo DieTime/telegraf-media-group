@@ -1,3 +1,8 @@
+/**
+ * SPDX-FileCopyrightText: 2024 Denis Glazkov <glazzk.off@mail.ru>
+ * SPDX-License-Identifier: MIT
+ */
+
 import { Context, MiddlewareFn } from 'telegraf'
 import { Message, Update } from '@telegraf/types'
 
