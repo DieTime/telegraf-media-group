@@ -35,6 +35,12 @@ This package provides all that you want to solve this problem:
 - 🔥 Filters
 - 🚀 Wrapper types for context
 
+## Installation
+
+```bash
+$ npm i @dietime/telegraf-media-group
+```
+
 ## Usage
 
 ### Attaching `MediaGroup` middleware
