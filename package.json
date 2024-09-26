@@ -24,10 +24,10 @@
    ],
    "keywords": [
       "telegraf",
-      "telegrafjs",
       "media",
       "group",
       "mediagroup",
+      "telegraf-media-group",
       "middleware"
    ],
    "main": "./dist/index.js",
