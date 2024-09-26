@@ -69,7 +69,7 @@ bot.on(media_group(), (ctx: MediaGroupContext<Context>) => {
       }
 
       if ('video' in media) {
-         console.log('Photo:', media.video)
+         console.log('Video:', media.video)
       }
    }
 })
