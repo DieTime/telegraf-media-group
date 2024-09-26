@@ -16,7 +16,7 @@ All that you want to easily process media groups in <a href="https://github.com/
       alt="Language: typescript"
    />
 	<img
-      src="https://badgen.net/packagephobia/install/@dietime/telegraf-media-group?color=9676F2"
+      src="https://img.shields.io/npm/unpacked-size/%40dietime%2Ftelegraf-media-group?label=install%20size&color=9676F2"
       alt="Package size"
    />
    <img
